@@ -6,4 +6,4 @@
 
 3) Used HTTPRequest Protocol to get the details from the countries website and have displayed the name,population, region and subregion in browser. Also in this git i have given the screenshots of result in a seperate folder
 
-Thankyou for spending your valuable time in evaluating this ;)
+Thankyou for spending your valuable time in evaluating this
